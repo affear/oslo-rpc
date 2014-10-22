@@ -15,5 +15,5 @@ To run:
 
 * Start RabbitMQ (or else) service
 * On a shell: `$ python server.py`
-* On _another_ shell: `$python client.py`
+* On _another_ shell: `$ python client.py`
 * Enjoy
